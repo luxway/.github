@@ -9,6 +9,9 @@ We are a digital marketing agency specializing in websites and SEO.
 - 📸 Visit our [Instagram](https://www.instagram.com/luxway.media/)
 - 💻 Visit our [Facebook](https://www.facebook.com/LuxWayMedia/)
 
+Want to join our team?
+Email us at **jobs@luxwaymedia.com**
+
 # Portfolio
 Below you will find a portfolio of our latest work
 
