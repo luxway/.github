@@ -10,15 +10,22 @@ We are a digital marketing agency specializing in websites and SEO.
 - 💻 Visit our [Facebook](https://www.facebook.com/LuxWayMedia/)
 
 # Portfolio
-Below you will find a brief portfolio of our latest work
-
+Below you will find a portfolio of our latest work
 
 ## St. Michael Academy
 ![](https://raw.githubusercontent.com/luxway/.github/main/profile/portfolio/st-michaels-academy.jpg)
 
+## E1 Athletics
+![](https://raw.githubusercontent.com/luxway/.github/main/profile/portfolio/e1-athletics.jpg)
+
+## GFR Homes
+![](https://raw.githubusercontent.com/luxway/.github/main/profile/portfolio/gfr-homes.jpg)
+
 ## Upland Goldsmith Jewelers
 ![](https://raw.githubusercontent.com/luxway/.github/main/profile/portfolio/upland-goldsmith-jewelers.jpg)
 
-
 ## Tigers For Tomorrow
 ![](https://raw.githubusercontent.com/luxway/.github/main/profile/portfolio/tigers-for-tomorrow.jpg)
+
+## Feline Conservation Foundation
+![](https://raw.githubusercontent.com/luxway/.github/main/profile/portfolio/feline-conservation-foundation.jpg)
